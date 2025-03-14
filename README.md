@@ -9,12 +9,10 @@ A simple and efficient **Task Management Web App** built using **React.js**. Thi
 - Add, edit, and delete tasks  
 - Mark tasks as completed  
 - User-friendly and responsive design  
-- Data persistence using local storage  
 - Fast and smooth performance  
 
 ## 🛠 Tech Stack  
 - **React.js** – Frontend framework  
 - **Tailwind CSS** / Custom CSS – Styling  
-- **Local Storage** – Data persistence  
 - **Netlify** – Deployment  
 
